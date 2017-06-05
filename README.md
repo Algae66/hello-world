@@ -1,2 +1,3 @@
 # hello-world
 Online map crash course
+Albert here, GIS specialist looking to improve and increase my skill set and be able to create online mapping applications. So much to learn, so confused on where to start...
